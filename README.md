@@ -26,6 +26,11 @@ You will need to download and install it manually.
 2. Users in the blacklist are marked to red; 
 ![labelled-users](images/labelled-users.png)
 
+# Plans
+1. Public blacklist. Maintain a public blacklist so that people can know bad users without playing with them. This list should be verified. People need to provide the game link as evidence for verification. 
+2. Blacklist importing. With this, you can import a list of bad users directly, instead of adding them when you meet them. 
+3. Remote dataset. Local storage is unreliable because they may get lost when you clear browser data or doing some other actions. A remote database is more reliable.
+
 # Notes
 1. This extension only interacts with spendee. 
 2. Data is stored locally and code is open-sourced. You do not need to worry about your privacy and security. 
